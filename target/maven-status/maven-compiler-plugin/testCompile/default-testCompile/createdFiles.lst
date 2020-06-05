@@ -1,0 +1,7 @@
+br\com\caelum\argentum\indicadores\MediaMovelSimplesTest.class
+br\com\caelum\argentum\bean\FiltraNegociacoesIT.class
+br\com\caelum\argentum\modelo\CandlestickFactoryTest.class
+br\com\caelum\argentum\indicadores\GeradorDeSerie.class
+br\com\caelum\argentum\modelo\NegociacaoTest.class
+br\com\caelum\argentum\indicadores\MediaMovelPonderadaTest.class
+br\com\caelum\argentum\reader\LeitorXMLTest.class

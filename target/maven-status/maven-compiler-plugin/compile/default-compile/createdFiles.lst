@@ -1,0 +1,13 @@
+br\com\caelum\argentum\indicadores\MediaMovelSimples.class
+br\com\caelum\argentum\reader\LeitorXML.class
+br\com\caelum\argentum\modelo\SerieTemporal.class
+br\com\caelum\argentum\modelo\Negociacao.class
+br\com\caelum\argentum\modelo\CandlestickFactory.class
+br\com\caelum\argentum\ws\ClienteWebService.class
+br\com\caelum\argentum\indicadores\MediaMovelPonderada.class
+br\com\caelum\argentum\bean\ArgentumBean.class
+br\com\caelum\argentum\grafico\GeradorModeloGrafico.class
+br\com\caelum\argentum\indicadores\IndicadorAbertura.class
+br\com\caelum\argentum\modelo\Candle.class
+br\com\caelum\argentum\indicadores\Indicador.class
+br\com\caelum\argentum\indicadores\IndicadorFechamento.class
